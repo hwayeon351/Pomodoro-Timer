@@ -20,7 +20,7 @@
 </br>
 
 ***
-<img src="/path/to/img.jpg" width="450px" height="300px" title="" alt=""></img><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="" alt=""></img>
+<img src="/img/img0.png" width="450px" height="300px" title="" alt=""></img><br/>
+<img src="/img/img1.png" width="40%" height="30%" title="" alt=""></img>
 
 
