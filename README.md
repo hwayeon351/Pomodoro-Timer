@@ -2,8 +2,9 @@
 ### 뽀모도로 타이머 앱
 
 #### 0~60분 사이의 타이머를 설정하고 종료되면 알람이 울리는 기본적인 타이머 입니다.
-* Blog: <https://hwayomingdlog.tistory.com/218>
-* Blog: <https://hwayomingdlog.tistory.com/220>
+### Blog
+* <https://hwayomingdlog.tistory.com/218>
+* <https://hwayomingdlog.tistory.com/220>
 </br>
 
 ## 주 기능
